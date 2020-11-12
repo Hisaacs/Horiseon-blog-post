@@ -4,9 +4,14 @@
 
 This webpage is being refactored for a pre-existing website
 
-Here you'll find Github URL: https://hisaacs.github.io/horiseon-blog-post/.
+Here you'll find URLs to: 
 
 
+GitHub URL
+https://github.com/Hisaacs/Horiseon-blog-post/settings
+
+Deployment URL
+https://hisaacs.github.io/Horiseon-blog-post/.
 
 
                                             ### USER STORY ###
