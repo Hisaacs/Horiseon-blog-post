@@ -16,7 +16,7 @@ A marketing agency, want a codebase that follows accessibilty standards so that 
 The following image shows the web application's appearance and functionality.
 
                                         ## Current Acceptance Criteria ###
-
+`````
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -28,5 +28,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
+`````
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/19741669/98826312-7dc60a80-2470-11eb-87f5-65c0d9946fa7.png)
